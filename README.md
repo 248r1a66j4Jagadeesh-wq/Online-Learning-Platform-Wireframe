@@ -36,7 +36,7 @@ https://www.figma.com/design/aYTYSxkgHMhNDfHFL3gZ0i/Login-Screen?node-id=0-1&t=x
 
 ### Profile Screen
 
-Profile Screen.png
+ProfileScreen.png
 
 ### Home Screen
 
