@@ -10,11 +10,11 @@ The purpose of this design is to demonstrate the UI/UX process for a simple auth
 
 ## Features
 
-- Login Screen
-- Sign Up Screen
-- Forgot Password
-- Responsive Mobile Layout
-- Simple User Flow
+- Profile Screen
+- Home Screen
+- Course Details
+- My Courses
+- Profile Screen
 
 ---
 
@@ -34,17 +34,26 @@ https://www.figma.com/design/aYTYSxkgHMhNDfHFL3gZ0i/Login-Screen?node-id=0-1&t=x
 
 ## Screenshots
 
-### Login Screen
+### Profile Screen
 
-![Login](screenshots/login-screen.png)
+![profile](screenshots/Profile Screen.png)
 
-### Sign Up
+### Home Screen
 
-![Signup](screenshots/signup-screen.png)
+![home screen](screenshots/Home Screen.png)
 
-### Forgot Password
+### Course Details
 
-![Forgot](screenshots/forgot-password.png)
+![Course Details](screenshots/Course Details.png)
+
+### My Courses
+
+![My Courses](screenshots/My Courses.png)
+
+### Profile Screen
+
+![Profile screen](screenshots/Profile Screen.png)
+
 
 ---
 
@@ -55,8 +64,6 @@ Login-Screen-Wireframe/
 README.md
 
 screenshots/
-
-assets/
 
 figma/
 
